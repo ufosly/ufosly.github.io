@@ -4,9 +4,13 @@
   display: none !important;
 }
 
+img {
+  filter: blur(4px);
+}
+
 img:hover {
  /* transform: scaleX(-1);*/
-  filter: blur(4px);
+  filter: blur(0px);
 }
 
 /*img {
