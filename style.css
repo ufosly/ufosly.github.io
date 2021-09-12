@@ -3,3 +3,12 @@
 .btn {
   display: none !important;
 }
+
+img:hover {
+  transform: scaleX(-1);
+}
+
+img {
+  align: center;
+  margin-bottom: -25px;
+}
