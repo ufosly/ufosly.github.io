@@ -4,7 +4,7 @@ title: "ufosly"
 ---
 <link rel="stylesheet" href="style.css">
 <!--![ufosly](logo.jpg)-->
-<img alt="ufosly logo" src="logo.jpg" widht="150" height="100" align="center">
+<img alt="ufosly logo" src="logo.jpg" widht="150" height="100">
 
 ## [area_51](area51.md)
 ## [reattore_antimateria](reattore_antimateria.md)
