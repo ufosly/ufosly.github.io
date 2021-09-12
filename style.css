@@ -5,10 +5,11 @@
 }
 
 img:hover {
-  transform: scaleX(-1);
+ /* transform: scaleX(-1);*/
+  filter: blur(4px);
 }
 
-img {
+/*img {
   align: center;
   margin-bottom: 125px;
-}
+}*/
