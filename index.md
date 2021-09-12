@@ -3,7 +3,8 @@ layout: default
 title: "ufosly"
 ---
 
-![ufosly](logo.jpg)
+<!--![ufosly](logo.jpg)-->
+<img alt="ufosly logo" src="logo.jpg" widht="150" height="100">
 
 ## [area_51](area51.md)
 ## [reattore_antimateria](reattore_antimateria.md)
