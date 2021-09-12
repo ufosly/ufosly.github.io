@@ -13,6 +13,12 @@ img:hover {
   filter: blur(0px);
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*img {
   align: center;
   margin-bottom: 125px;
