@@ -2,7 +2,7 @@
 layout: default
 title: "ufosly"
 ---
-
+<link rel="stylesheet" href="style.css">
 <!--![ufosly](logo.jpg)-->
 <img alt="ufosly logo" src="logo.jpg" widht="150" height="100">
 
