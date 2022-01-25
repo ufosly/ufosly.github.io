@@ -19,6 +19,10 @@ img:hover {
   margin-right: auto;
 }
 
+header {
+  display: none;
+}
+
 /*img {
   align: center;
   margin-bottom: 125px;
